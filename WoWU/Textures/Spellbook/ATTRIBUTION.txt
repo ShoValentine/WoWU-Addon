@@ -1,0 +1,11 @@
+Original spellbook artwork: Blizzard Entertainment (The War Within).
+Public extraction/reference: Grim-Batol/The-War-Within-Spellbook
+https://github.com/Grim-Batol/The-War-Within-Spellbook
+Tree: 114f1966dda629b1cbc6ea587f1b2eafa4606348
+Source: Interface/SpellBook/SpellbookBackgroundEvergreen.blp
+Source SHA256: c35d86fd333bbdbdcfa1a1573724862b8d66b9cbfc3cca2610a07e383ad4b621
+Layout reference: Interface/FrameXML/SpellBook.xml
+Only the original background/ribbon image regions are bundled; no port Lua is included.
+BLP uncompressed BGRA pixels were decoded and copied without resampling into
+power-of-two RGBA TGA files. Transparent padding is excluded by texture coordinates.
+Retail continues using native atlases where available.

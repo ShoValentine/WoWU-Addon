@@ -1,0 +1,6 @@
+Blizzard Entertainment UI artwork, mirrored by Gethe/wow-ui-textures.
+Source: https://github.com/Gethe/wow-ui-textures
+Revision: d23deaf8f44a7d280dc974a5c9d5321c013db59b
+PNG sources converted to uncompressed 32-bit RGBA TGA without resampling.
+Original artwork remains the property of its respective owner.
+See SOURCES.json for exact source paths, dimensions and packaged checksums.

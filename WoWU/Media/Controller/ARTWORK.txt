@@ -1,0 +1,1 @@
+WoWU controller fallback artwork: code-authored metallic slot rims, key badges, directional markers and reticle textures. No external gamepad texture atlas is bundled. Native client gamepad atlases are preferred where available; round icons use the client TempPortraitAlphaMask. Visual reference: Blizzard Forever gamepad UI and GamepadActionBarButtonMixin shape configuration.

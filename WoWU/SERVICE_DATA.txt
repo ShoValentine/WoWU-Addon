@@ -1,0 +1,18 @@
+WoWU service location data
+Source: https://github.com/Questie/QuestieDB
+Snapshot tree: e9a67d1a2753a0e64c4c96bf7864788fac7b765f
+Files: data/Forever/foreverNpcDB.lua, data/Forever/foreverObjectDB.lua,
+support/Forever/Zones/areaIdToUiMapId.lua
+Downloaded 2026-10-17. Thanks to Questie contributors and their upstream data sources.
+
+This is a compact extraction of factual service names, flags, faction friendliness
+and spawn coordinates; it does not bundle or execute Questie's addon code.
+Forever coordinates are adjusted by Questie for Forever map bounds. They assume
+inherited NPC world positions; new or relocated Forever services may be missing
+or inaccurate. Raw base records are used, without Questie's runtime corrections.
+Mailbox faction restrictions are not inferred. Markers are known locations, not
+live NPC detection. Native map POIs and flight records supplement these records.
+Nearby services discovered through actual interaction are remembered separately.
+
+WoWU v0.2.4: includes repair-flag records. Inn records additionally require an
+innkeeper title/name to reject contradictory vendor flags.

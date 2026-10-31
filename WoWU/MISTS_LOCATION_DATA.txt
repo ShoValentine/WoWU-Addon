@@ -1,0 +1,18 @@
+Mists of Pandaria Classic service locations
+Source: https://github.com/Questie/QuestieDB
+Files: data/MoP/mopNpcDB.lua, data/MoP/mopObjectDB.lua,
+support/Zones/MoP/areaIdToUiMapId.lua. Retrieved 2026-10-27.
+Thanks to Questie contributors and upstream data providers.
+
+All base service records with known coordinates and friendly-faction data are
+extracted for flight masters, trainers, innkeepers, repairs, banks and auctions,
+plus known mailbox objects. The Mists NPC flags and area/map mappings are used,
+with mapping overrides applied after the base relationships. No Era-coordinate
+substitution is used. Runtime corrections, phasing and seasonal spawns are not
+included. This is a reference database, not live NPC detection. Mailbox faction
+restrictions are not inferred. Only factual names/roles/coordinates are bundled;
+downloaded addon code is never executed or included. No external addon required.
+
+mists-areaIdToUiMapId.lua SHA256 97093e89fffbffb8d9df98a72d979352dc1d658bced0ee3122af870c847c1b1f
+mists-mopNpcDB.lua SHA256 7cf07b11b3a0ab3622056cba54fca424aae075049129119f3c1060729e1fc103
+mists-mopObjectDB.lua SHA256 57d1961294e5f5684dc359b1d99a929ea27c904659af48418d0b41cbfe92d58d

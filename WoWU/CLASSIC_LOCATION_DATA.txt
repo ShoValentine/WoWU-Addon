@@ -1,0 +1,15 @@
+Classic Era NPC services and quest starters
+Source: https://github.com/Questie/QuestieDB/tree/master/data/Classic
+Source files and SHA256 hashes: CLASSIC_NAVIGATION_DATA.txt.
+Imported 2026-10-26. Thanks to Questie contributors and upstream data providers.
+
+These are factual NPC/object names, service flags, faction friendliness,
+quest titles/IDs, eligibility fields and known spawn coordinates from Classic
+base records. No Questie code or quest prose is bundled. No external addon
+is required. No downloaded Lua is executed by the extraction process.
+Services include flight masters, trainers, innkeepers, repair NPCs, banks,
+auctioneers and mailboxes. Quest starters with unsupported skill/reputation/
+special requirements are omitted. Runtime corrections and seasonal changes
+are not included. Marker availability depends on level, faction/class and known
+quest completion/prerequisite state; these are reference records, not live NPC
+detection. Mailbox faction restrictions are not inferred.

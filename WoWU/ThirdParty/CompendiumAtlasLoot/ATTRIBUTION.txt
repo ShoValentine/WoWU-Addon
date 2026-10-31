@@ -1,0 +1,7 @@
+AtlasLoot Classic Forever 1.2.6-181026-16001, Sliccer and AtlasLoot contributors.
+Source: https://www.curseforge.com/wow/addons/atlasloot-forever/files/9244923
+GPL-2.0. Original data retained here; adapted into CompendiumData.lua on 2026-10-21.
+Only named instance/encounter records and direct item IDs are included.
+Set/reputation exchanges and conditional phase mutations are not imported.
+Drop percentages lack Forever-specific verification and are not displayed.
+The source includes future-phase content; availability is not guaranteed.

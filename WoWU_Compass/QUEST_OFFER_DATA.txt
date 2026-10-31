@@ -1,0 +1,22 @@
+Forever quest-offer fallback data
+Source: https://github.com/Questie/QuestieDB
+Pinned snapshot: e9a67d1a2753a0e64c4c96bf7864788fac7b765f
+Provenance: https://github.com/Questie/QuestieDB/blob/e9a67d1a2753a0e64c4c96bf7864788fac7b765f/docs/forever-delta-base.md
+Generated Forever quest/NPC deltas, recorded traces, then authored static Forever fixes.
+Quest deltas contain individual wowhead.com/forever/quest=<ID> source links.
+Trace headers report 7,721 files / 22,661 sessions, generated 2026-10-13.
+Inherited NPC spawn positions supplement new NPC records; authored fixes override them.
+No downloaded Lua code is executed. Only factual fields are extracted.
+
+458 quest IDs absent from inherited base quest records.
+476 NPC/map/position combinations across 29 maps.
+735 quest/location records (multiple quests can share a giver).
+Excluded records by reason: {"dynamic or partial/unsupported corrections": 140, "missing explicit level/race requirements": 23, "missing name or unreleased placeholder": 6, "no supported NPC starter location": 347, "special requirements or repeatable/event quest": 7}
+
+NPC starters only. Complex requirements, dynamic/partial corrections, unknown
+locations, changed coordinate frames and missing explicit level/race data are omitted.
+Markers are database candidates, not live confirmation from the Forever server.
+Unrecorded server conditions and moved/patrolling NPCs can still cause inaccuracies.
+Native offers and observed interaction locations take precedence.
+Both existing world-map and compass available-quest toggles apply.
+Thanks to QuestieDB contributors and their upstream sources.

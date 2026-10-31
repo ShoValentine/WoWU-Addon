@@ -1,0 +1,29 @@
+Crafting reagent source references - 2026-10-29
+Source: QuestieDB contributors, https://github.com/Questie/QuestieDB
+Snapshot: 7901fee2753cecb577a72c2e4b7126198e05baec
+Edition-specific ItemDB NPC/object/container drop and vendor relationships,
+joined to that edition's NPC/ObjectDB names and area/UI-map relationships.
+Only factual names/IDs/relationships are extracted; no external code is run.
+
+Examples, not exhaustive farming routes: up to six source records per item,
+drawn from up to three source entities per type. A map names one known area,
+not every spawn zone. Creature sources may involve loot or profession gathering
+(such as skinning); no guaranteed drop rate is inferred. Stock, phases, seasonal
+availability and runtime database corrections are not evaluated. Friendly-faction
+metadata applies to vendor suggestions. These references do not add map nodes.
+
+Retail does not inherit Classic item sources. All clients also remember vendors
+actually visited, attributable loot actually viewed and recipe outputs inspected, separately per client.
+When no factual source is available, the inspector gives a clearly labelled
+profession/category hint and says the exact source is unavailable.
+
+AH prices use the existing last completed scan for the active client/market.
+They are lowest scanned asking prices per item ID, not live quotes or sale values;
+item quality/variants can differ. No new scan or web request runs on selection.
+
+Era: 2,121 item summaries
+TBC: 3,351 item summaries
+Wrath: 4,251 item summaries
+Cata: 5,625 item summaries
+Mists: 5,970 item summaries
+Forever: 2,121 item summaries

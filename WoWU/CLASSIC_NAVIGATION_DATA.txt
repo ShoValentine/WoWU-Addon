@@ -1,0 +1,19 @@
+Classic Era quest navigation facts
+Source: https://github.com/Questie/QuestieDB
+Files: data/Classic/classicQuestDB.lua, classicNpcDB.lua, classicObjectDB.lua,
+classicItemDB.lua; support/Zones/areaIdToUiMapId.lua.
+Retrieved 2026-10-26. Thanks to Questie contributors and upstream data providers.
+
+This extraction contains quest IDs, objective types and numeric outdoor/city
+spawn coordinates only. No Questie code, quest prose or NPC names are bundled.
+No external addon is required. Downloaded Lua is parsed as literals, never run.
+Base records do not include runtime corrections, seasonal spawns or all special
+quest mechanics. At most 16 actual spawn coordinates per entity/map are retained.
+These are known spawn locations, not live NPC detection or pathfinding. Instance
+aliases are excluded. Missing coordinates are reported, never fabricated.
+
+era-areaIdToUiMapId.lua SHA256 fd74115c3bab5b7662c0b22e05d0d37aedb5d08b634cbea1b102b3f52af38a2b
+era-classicItemDB.lua SHA256 987d037b6df94d5b0b1dc326a1670581e3abb952736a4ae055fd9f161328b71c
+era-classicNpcDB.lua SHA256 ee4a241db3ff89e5f0883b688b58920c1121f5617202ecba81d90b17271ccd54
+era-classicObjectDB.lua SHA256 d08fbd8216757918330d9ff02bfc1b13f837f198e0aa62aa76260bb1bd9cd042
+era-classicQuestDB.lua SHA256 bd44f6353531b4fe3b95eab3d469bef64ab41503646c509db73813f309ab3ad4

@@ -1,0 +1,2 @@
+Parchment source: https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/HELPFRAME/Tileable-Parchment.PNG
+Silver textures are grayscale derivatives of the corresponding bundled Blizzard artwork listed in SOURCES.json. Original alpha and atlas geometry preserved.

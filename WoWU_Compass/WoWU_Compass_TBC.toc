@@ -1,0 +1,14 @@
+## Interface: 20506
+## Title: WoWU Compass
+## Notes: A Skyrim-style compass on the main gameplay screen, with Offhand support.
+## Author: WoWU Project
+## Version: 0.4.5
+## SavedVariables: WoWUCompassDB
+## OptionalDeps: Offhand, WoWU
+
+Compatibility.lua
+Navigation.lua
+QuestOfferData.lua
+QuestOffers.lua
+POI.lua
+Compass.lua

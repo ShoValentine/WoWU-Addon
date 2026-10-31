@@ -1,0 +1,177 @@
+{
+  "repository": "https://github.com/Gethe/wow-ui-textures",
+  "commit": "d23deaf8f44a7d280dc974a5c9d5321c013db59b",
+  "date": "2022-08-20T17:01:17Z",
+  "assets": [
+    {
+      "file": "Stone.tga",
+      "original": "FrameGeneral/UI-Background-Rock.PNG",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/FrameGeneral/UI-Background-Rock.PNG",
+      "sha256": "e2cc7719ae91988182a5fa41905544029af12a7d65921e0d796849b82eaf73b8"
+    },
+    {
+      "file": "Marble.tga",
+      "original": "FrameGeneral/UI-Background-Marble.PNG",
+      "size": [
+        256,
+        256
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/FrameGeneral/UI-Background-Marble.PNG",
+      "sha256": "2e63f5fa6082d117a1f99d4b91ea4c7f3fe194f66d47dbc029dfe50d15467b5c"
+    },
+    {
+      "file": "GoldBorder.tga",
+      "original": "DialogFrame/UI-DialogBox-Gold-Border.PNG",
+      "size": [
+        256,
+        32
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/DialogFrame/UI-DialogBox-Gold-Border.PNG",
+      "sha256": "cf834d00619e7cb25f2bdd3443cd4856bce74f5eb1763c8efe5818a0088bac79"
+    },
+    {
+      "file": "InsetBorder.tga",
+      "original": "Tooltips/UI-Tooltip-Border.PNG",
+      "size": [
+        128,
+        16
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Tooltips/UI-Tooltip-Border.PNG",
+      "sha256": "cef1107b52fa1492bb2eb78e7effc00dbf79849bcde4312541a29ed880250c47"
+    },
+    {
+      "file": "GoldCorner.tga",
+      "original": "DialogFrame/UI-DialogBox-Gold-Corner.PNG",
+      "size": [
+        32,
+        32
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/DialogFrame/UI-DialogBox-Gold-Corner.PNG",
+      "sha256": "890fbcf459be218aaa5e1133beb9ee2fcb15874d64d3fa72397279bc24c8b164"
+    },
+    {
+      "file": "Divider.tga",
+      "original": "DialogFrame/UI-DialogBox-Divider.PNG",
+      "size": [
+        256,
+        32
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/DialogFrame/UI-DialogBox-Divider.PNG",
+      "sha256": "01d8b622a5a4630c0d1ffd718ad830f5439b777aa21d36d5d2a6a1dd47923981"
+    },
+    {
+      "file": "Amber.tga",
+      "original": "DialogFrame/UI-DialogBox-Gold-Background.PNG",
+      "size": [
+        64,
+        64
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/DialogFrame/UI-DialogBox-Gold-Background.PNG",
+      "sha256": "e4b17948f2527eaae8fcc621a69bd59584df83c1e804f94a34bff1c1b7d803aa"
+    },
+    {
+      "file": "Highlight.tga",
+      "original": "Buttons/ButtonHilight-Square.PNG",
+      "size": [
+        64,
+        64
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/ButtonHilight-Square.PNG",
+      "sha256": "db4846e46554b23258bfe8b4a741e02a2c946195a4b706db7869d1cb67d86d69"
+    },
+    {
+      "file": "EmptySlot.tga",
+      "original": "Buttons/UI-Slot-Background.PNG",
+      "size": [
+        64,
+        64
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/UI-Slot-Background.PNG",
+      "sha256": "8e99ac8b5b6af6e3b4feaa99e756764961ea5f749bfdcfef4c5a9d11acabeff1"
+    },
+    {
+      "file": "IconRim.tga",
+      "original": "Buttons/UI-Quickslot2.PNG",
+      "size": [
+        64,
+        64
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/UI-Quickslot2.PNG",
+      "sha256": "69fc98299441db4cb0cc32f1408122d4c1515078d83833117c729c88f07b562f"
+    },
+    {
+      "file": "Pressed.tga",
+      "original": "Buttons/UI-Quickslot-Depress.PNG",
+      "size": [
+        64,
+        64
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/UI-Quickslot-Depress.PNG",
+      "sha256": "1d85fb34b8795e5265ffbddea1632f0d8ec9626d27efa3335dc5ebdadd4e4705"
+    },
+    {
+      "file": "StatusBar.tga",
+      "original": "TARGETINGFRAME/UI-StatusBar.PNG",
+      "size": [
+        64,
+        8
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/TARGETINGFRAME/UI-StatusBar.PNG",
+      "sha256": "30ef63c42354c9483d960779369e26c07b24029c5104ac448178afb869dc4331"
+    },
+    {
+      "file": "ScrollThumb.tga",
+      "original": "Buttons/UI-ScrollBar-Knob.PNG",
+      "size": [
+        32,
+        32
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/UI-ScrollBar-Knob.PNG",
+      "sha256": "bd6d2070bd6d2963450e3a6c2ad0df579f07763ac7f3067e4e715bf3bacf9ab0"
+    },
+    {
+      "file": "ScrollUp.tga",
+      "original": "Buttons/UI-ScrollBar-ScrollUpButton-Up.PNG",
+      "size": [
+        32,
+        32
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/UI-ScrollBar-ScrollUpButton-Up.PNG",
+      "sha256": "1ea0272e9239c8694415128fe5cb05b8c91fad9f15b79c6918a7e9e37d66c527"
+    },
+    {
+      "file": "ScrollUpDown.tga",
+      "original": "Buttons/UI-ScrollBar-ScrollUpButton-Down.PNG",
+      "size": [
+        32,
+        32
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/UI-ScrollBar-ScrollUpButton-Down.PNG",
+      "sha256": "a9b72ac2106c2b24763c376e12bdaa647dcdb5bd8f20f64c2930f39f9f646a60"
+    },
+    {
+      "file": "ScrollDown.tga",
+      "original": "Buttons/UI-ScrollBar-ScrollDownButton-Up.PNG",
+      "size": [
+        32,
+        32
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/UI-ScrollBar-ScrollDownButton-Up.PNG",
+      "sha256": "d4254a08e283130dba1413ec7d99756b8bf018cdc93d6f6343685bcccde3ab50"
+    },
+    {
+      "file": "ScrollDownDown.tga",
+      "original": "Buttons/UI-ScrollBar-ScrollDownButton-Down.PNG",
+      "size": [
+        32,
+        32
+      ],
+      "source_url": "https://github.com/Gethe/wow-ui-textures/blob/d23deaf8f44a7d280dc974a5c9d5321c013db59b/Buttons/UI-ScrollBar-ScrollDownButton-Down.PNG",
+      "sha256": "7ca386c3715436f7cbec6373e656b8d7023f2ca1a3b254728c25354bac61f128"
+    }
+  ]
+}

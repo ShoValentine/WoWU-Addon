@@ -1,0 +1,4 @@
+Blizzard original talent backgrounds, obtained from Gethe/wow-ui-textures.
+Commit d23deaf8f44a7d280dc974a5c9d5321c013db59b, TALENTFRAME/*.PNG.
+Four original tiles assembled and converted to TGA for WoWU.
+Artwork belongs to Blizzard Entertainment.

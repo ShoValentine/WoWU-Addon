@@ -1,0 +1,7 @@
+WoWU original addon, Compass and Windows Assistant source
+Copyright (c) 2026 ShoValentine and WoWU contributors
+Licensed under GNU GPL version 2. See GPL-2.0.txt.
+
+Third-party works keep their own copyright and licence terms. This does not
+relicense Blizzard artwork, trademarks, the virtual display driver, Sunshine,
+or Microsoft runtime components. See the accompanying notices.
