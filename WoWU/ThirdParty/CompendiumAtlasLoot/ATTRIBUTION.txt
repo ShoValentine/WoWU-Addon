@@ -1,6 +1,8 @@
 AtlasLoot Classic Forever 1.2.6-181026-16001, Sliccer and AtlasLoot contributors.
 Source: https://www.curseforge.com/wow/addons/atlasloot-forever/files/9244923
-GPL-2.0. Original data retained here; adapted into CompendiumData.lua on 2026-10-21.
+GPL-2.0. Adapted into CompendiumData.lua on 2026-10-21.
+Original source and conversion script are preserved in this source snapshot:
+https://github.com/ShoValentine/WoWU-Addon/tree/92f1b91adaecd0b28dceef4a661b85e4f3e81c53/WoWU/ThirdParty/CompendiumAtlasLoot
 Only named instance/encounter records and direct item IDs are included.
 Set/reputation exchanges and conditional phase mutations are not imported.
 Drop percentages lack Forever-specific verification and are not displayed.

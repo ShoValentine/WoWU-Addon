@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-*.tmp
-*.assistant-backup
-.venv/
-outputs/
-.DS_Store
-Thumbs.db
