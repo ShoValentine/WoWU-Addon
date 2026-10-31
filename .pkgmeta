@@ -1,0 +1,14 @@
+package-as: WoWU
+enable-nolib-creation: no
+
+move-folders:
+  WoWU/WoWU: WoWU
+  WoWU/WoWU_Compass: WoWU_Compass
+
+ignore:
+  - CHANGELOG.md
+  - LICENSE
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
